@@ -1,0 +1,2 @@
+Age,Attrition,BusinessTravel,Department,DistanceFromHome,Education,EducationField,EnvironmentSatisfaction,Gender,JobInvolvement,JobLevel,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,NumCompaniesWorked,OverTime,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,Sales
+41,Yes,Travel_Rarely,Sales,1,2,Life Sciences,2.539,Female,3,2,Sales Representative,4,Single,5187,8,Yes,11,3,1,0,8,0,1,6,4,0,5,121902
